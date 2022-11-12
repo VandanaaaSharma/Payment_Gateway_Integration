@@ -1,0 +1,28 @@
+
+h1{
+    margin-right: 50%;
+    text-align: center;
+    margin-top: 15%;
+    color: white;    
+    font-size: 90px;
+}
+h2{
+    margin-right: 50%;
+    text-align: center;
+    color: white;
+    font-size: 75px;
+
+}
+body{
+    background-image: url("image3.png");
+    background-repeat: no-repeat;
+    background-size: 3050px 1030px;
+}
+form{
+    margin-right: 50%;
+    text-align: center;
+    color: white;    
+    padding: 50px;
+    font-size: 46px;
+    border-radius: 50px solid;
+}
